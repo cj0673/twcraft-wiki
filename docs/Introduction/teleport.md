@@ -6,7 +6,7 @@ layout: default
 
 ## **我該如何使用隨機傳送？**
 > - 使用 `/rt` 即可進行隨機傳送
-> - 在遊戲選單的快捷指令列表內點擊`隨機傳送`
+> - 在遊戲選單的快捷指令列表內點擊 `隨機傳送`
 
 ## **隨機傳送有什麼限制嗎？**
 > - 當完成一次隨機傳送後，需要等待10秒才能進行下一次隨機傳送  
@@ -39,21 +39,22 @@ layout: default
 > - 您希望設定一個名為ExampleHome的Home傳送點
 > 1. 使用 `/sethome ExampleHome`
 
+## **我可以設定幾個Home點？**
+> 您可以設定10個Home點
+
 ## **我該如何傳送到我的Home點？**
 > 使用 `/home name` 可以傳送到Home點
 >
 > - 您已經擁有一個Home點，名字是ExampleHome，你想傳送到那邊
 > 1. 使用 `/home ExampleHome`
 
-## **我可以設定幾個Home點？**
-> 您可以設定10個Home點
-
-## **Home點有GUI可以使用嗎？**
-> 有，您可以使用 `/homes`  
-> 這會打開Home點面板，裡面顯示您所有的Home點
-
 ## **我該如何刪除我的Home點？**
 > 使用 `/delhome name`
 >
 > - 您已經擁有一個Home點，名字是ExampleHome，你想刪除他
 > 1. 使用 `/delhome ExampleHome`
+
+## **Home點有圖形介面嗎？**
+> 有，您可以使用 `/homes`  
+> 這會打開Home點面板，裡面顯示您所有的Home點  
+> 您也可以在面板裡面執行傳送或刪除Home點

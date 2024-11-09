@@ -19,6 +19,10 @@ nav_order: 1
 ### **正版驗證開啟 請支持正版遊戲**
 {: .text-center}
 
+### **[Discord群組](https://discord.gg/MK33s4Ndur)**
+{: .text-center}
+
 ---
 
-![](https://image.mc-list.xyz/preview/21-2209.png?bannerShowIcon=1&bannerShowVersion=1)
+![](https://image.mc-list.xyz/preview/21-2209.png?bannerShowIcon=1&bannerShowVersion=0)
+{: .text-center}
