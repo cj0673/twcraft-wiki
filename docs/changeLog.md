@@ -1,6 +1,7 @@
 ---
-title: 更新紀錄
+title: 伺服器更新紀錄
 hide_title: true
+sidebar_label: 更新紀錄
 sidebar_position: 5
 pagination_next: null
 pagination_prev: null

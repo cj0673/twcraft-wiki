@@ -2,7 +2,7 @@
 title: 冒險指南 - 與經濟有關的教學
 hide_title: true
 sidebar_label: 經濟篇
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 ### 我該怎麼在這個伺服器賺錢？

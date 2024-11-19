@@ -5,9 +5,11 @@ sidebar_label: 領地篇
 sidebar_position: 5
 ---
 
-:::warning
-**超過42天沒有登入遊戲，領地會被自動刪除**
-:::
+<div style={{ textAlign: "center" }}>
+    :::warning
+    **超過42天沒有登入遊戲，領地會被自動刪除**
+    :::
+</div>
 
 ### 我可以宣告幾個領地？
 > 沒有限制玩家能夠宣告**幾個**領地  
