@@ -1,6 +1,7 @@
 ---
-title: 與經濟相關
+title: 冒險指南 - 與經濟有關的教學
 hide_title: true
+sidebar_label: 經濟篇
 sidebar_position: 4
 ---
 

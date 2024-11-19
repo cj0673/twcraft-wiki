@@ -1,6 +1,7 @@
 ---
-title: 與領地相關
+title: 冒險指南 - 與領地有關的教學
 hide_title: true
+sidebar_label: 領地篇
 sidebar_position: 5
 ---
 

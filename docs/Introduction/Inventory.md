@@ -1,6 +1,7 @@
 ---
-title: 與容器相關
+title: 冒險指南 - 與容器有關的教學
 hide_title: true
+sidebar_label: 容器篇
 sidebar_position: 3
 ---
 

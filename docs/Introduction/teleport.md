@@ -1,6 +1,7 @@
 ---
-title: 與傳送相關
+title: 冒險指南 - 與傳送有關的教學
 hide_title: true
+sidebar_label: 傳送篇
 sidebar_position: 2
 ---
 
