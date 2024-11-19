@@ -1,7 +1,7 @@
 ---
 slug: /
+title: 主頁
 hide_title: true
-sidebar_label: 主頁
 sidebar_position: 1
 pagination_next: null
 hide_table_of_contents: true

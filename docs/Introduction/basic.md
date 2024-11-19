@@ -1,6 +1,6 @@
 ---
+title: 想不到這個分類要叫什麼
 hide_title: true
-sidebar_label: 想不到這個分類要叫什麼
 sidebar_position: 1
 ---
 

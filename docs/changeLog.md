@@ -1,6 +1,6 @@
 ---
+titlle: 更新紀錄
 hide_title: true
-sidebar_label: 更新紀錄
 sidebar_position: 5
 hide_table_of_contents: true
 ---
