@@ -71,13 +71,50 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [],
+      links: [
+        {
+          label: 'McList',
+          href: 'https://www.mc-list.xyz/2209/info',
+        },
+        {
+          label: '巴哈姆特',
+          href: 'https://forum.gamer.com.tw/C.php?bsn=18673&snA=202486&tnum=64&subbsn=18',
+        },
+      ],
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  headTags: [
+    // Declare a <link> preconnect tag
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://mcwiki.sfpdev.com',
+      },
+    },
+    // Declare some json-ld structured data
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org/',
+        '@type': 'GameServer',
+        "name": "寧靜居",
+        "url": "https://mcwiki.sfpdev.com",
+        "description": "寧靜居是一個長期穩定的 Minecraft 伺服器。專注於原味生存，為玩家提供溫暖、像家的遊戲體驗",
+        "game": "Minecraft",
+        "serverStatus": "Online",
+        "additionalType": "Survival Server"
+      }),
+    },
+  ],
 };
 
 export default config;

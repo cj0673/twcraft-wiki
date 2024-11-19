@@ -9,8 +9,8 @@
 ## 接受Pull requests嗎？
 
 當然接受，非常歡迎  
-請在Pull requests標題和Commit訊息內以**繁體中文**為主  
-以及將Pull requests標題和Commit訊息**寫清楚**  
+在Pull requests標題和Commit訊息內請以**繁體中文**為主  
+將Pull requests標題和Commit訊息**寫清楚**  
 例如您做了什麼、為什麼要這樣做  
 這些訊息可以幫助我更快的進入狀況、了解用意
 
