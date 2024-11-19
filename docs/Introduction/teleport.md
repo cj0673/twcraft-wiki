@@ -1,6 +1,6 @@
 ---
+title: 與傳送相關
 hide_title: true
-sidebar_label: 與傳送相關
 sidebar_position: 2
 ---
 

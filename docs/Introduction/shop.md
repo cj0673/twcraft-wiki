@@ -1,6 +1,6 @@
 ---
+title: 與經濟相關
 hide_title: true
-sidebar_label: 與經濟相關
 sidebar_position: 4
 ---
 

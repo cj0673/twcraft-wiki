@@ -1,6 +1,6 @@
 ---
+title: 與領地相關
 hide_title: true
-sidebar_label: 與領地相關
 sidebar_position: 5
 ---
 
