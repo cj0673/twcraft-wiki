@@ -1,4 +1,5 @@
 {
-  "label": "冒險指南",
-  "position": 2
+  "position": 2,
+  "collapsible": true,
+  "label": "冒險指南"
 }
