@@ -1,7 +1,8 @@
 ---
-title: 更新紀錄
-layout: default
-nav_order: 5
+hide_title: true
+sidebar_label: 更新紀錄
+sidebar_position: 5
+hide_table_of_contents: true
 ---
 
 ### ***20241108***
