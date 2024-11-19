@@ -71,7 +71,16 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [],
+      links: [
+        {
+          label: 'McList',
+          href: 'https://www.mc-list.xyz/2209/info',
+        },
+        {
+          label: '巴哈姆特',
+          href: 'https://forum.gamer.com.tw/C.php?bsn=18673&snA=202486&tnum=64&subbsn=18',
+        },
+      ],
     },
     prism: {
       theme: prismThemes.github,
