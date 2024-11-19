@@ -1,5 +1,5 @@
 ---
-titlle: 更新紀錄
+title: 更新紀錄
 hide_title: true
 sidebar_position: 5
 hide_table_of_contents: true

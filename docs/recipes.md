@@ -1,7 +1,8 @@
 ---
 title: 自訂合成表
-layout: default
-nav_order: 3
+hide_title: true
+sidebar_position: 3
+hide_table_of_contents: true
 ---
 
 <div style={{ textAlign: "center" }}>
