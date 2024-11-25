@@ -53,6 +53,14 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    announcementBar: {
+      id: 'support_us',
+      content:
+        '網站內容仍在編寫中。如果您有好的建議，歡迎在Discord提出。',
+      backgroundColor: '#fafbfc',
+      textColor: '#091E42',
+      isCloseable: false,
+    },
     navbar: {
       title: '寧靜居',
       items: [
