@@ -72,8 +72,9 @@ const config: Config = {
         },
         {
           href: 'https://github.com/cj0673/sfpdev-mcwiki',
-          label: 'GitHub',
           position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
