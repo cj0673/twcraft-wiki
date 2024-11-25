@@ -2,7 +2,7 @@
 title: 冒險指南 - 與傳送有關的教學
 hide_title: true
 sidebar_label: 傳送篇
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 ### 我該如何使用隨機傳送？
