@@ -1,6 +1,7 @@
 ---
-title: 想不到這個分類要叫什麼
+title: 冒險指南 - 你至少應該知道這些
 hide_title: true
+sidebar_label: 基本篇
 sidebar_position: 1
 ---
 
