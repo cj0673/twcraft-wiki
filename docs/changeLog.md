@@ -9,6 +9,9 @@ custom_edit_url: null
 hide_table_of_contents: true
 ---
 
+### *20250302*
+> 修復TAB內資訊異常的問題
+
 ### *20241231*
 > 服主踏入迷彩人生 服義務役四個月  
 > 暫時停止伺服器一切更新 僅保持24小時開服
