@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '寧靜居',
-  tagline: '',
+  tagline: '長期、原味、溫暖的 Minecraft 生存伺服器 Wiki',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -59,11 +59,15 @@ const config: Config = {
     announcementBar: {
       id: 'support_us',
       content:
-        '網站內容仍在編寫中。如果您有好的建議，歡迎在Discord提出。',
+        '🛠️ Wiki 還在更新！有任何改進點，快到 Discord 找我聊，或直接到 GitHub 開 PR 吧！',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
       isCloseable: false,
     },
+    metadata: [
+      { name: 'description', content: '寧靜居 Wiki：長期、原味、溫暖的 Minecraft 生存伺服器' },
+      { name: 'keywords', content: '寧靜居, Minecraft原味生存' },
+    ],
     navbar: {
       title: '寧靜居',
       items: [
