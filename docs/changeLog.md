@@ -9,6 +9,9 @@ custom_edit_url: null
 hide_table_of_contents: true
 ---
 
+### *2050421*
+> 更新至1.21.4
+
 ### *20250302*
 > 修復TAB內資訊異常的問題
 
