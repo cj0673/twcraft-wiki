@@ -43,3 +43,7 @@
 .header-github-link:hover::before {
   background-color: var(--ifm-navbar-link-hover-color);
 }
+
+.hide-anchor-links .hash-link {
+  display: none;
+}

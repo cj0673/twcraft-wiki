@@ -6,31 +6,31 @@ sidebar_label: 主頁
 sidebar_position: 1
 pagination_next: null
 hide_table_of_contents: true
-description: 一個24小時在線的 Minecraft 伺服器。專注於原味生存，搭配便利插件，打造輕鬆愜意的遊戲環境。像家一樣溫暖的伺服器，隨時歡迎你探索、創造與冒險！
+description: 一個24小時在線的 Minecraft 伺服器，主打長期、穩定、流暢的體驗。專注於生存，打造輕鬆愜意的環境，隨時歡迎你來探索、創造與冒險！
 ---
 
-<div style={{ textAlign: "center" }}>
+<div style={{ textAlign: "center" }} className="hide-anchor-links">
     ### 一個 Minecraft 伺服器
 
-    ### 長期穩定 便利生存 輕鬆冒險
+    ### 提供長期、穩定、流暢的體驗
 
     <div style={{ height: "30px" }}></div>
 
-    ### 寧靜居是一個專為喜歡生存的玩家打造的伺服器
+    ### 為喜愛生存的玩家準備的一片小天地
 
-    ### 提供一個溫暖、輕鬆的遊戲環境
+    ### 擁有領地飛行、防噴防爆、經濟系統與浮動物價等多元功能
+
+    ### 無論是打拼還是放鬆，都能找到屬於自己的步調
+
+    ### 在忙碌生活之餘，讓這裡成為您溫暖的避風港
 
     <div style={{ height: "30px" }}></div>
-
-    ### IP：mc.sfpdev.com
 
     ### 遊戲版本：1.21.4
 
-    ### 開放時間：24小時
-
     ### 架設地點：臺灣 新北市
 
-    ### 正版驗證開啟 請支持正版遊戲
+    ### 伺服器位址：mc.sfpdev.com
 
     ### [Discord群組](https://discord.gg/MK33s4Ndur)
 
