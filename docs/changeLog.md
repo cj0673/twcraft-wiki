@@ -9,6 +9,9 @@ custom_edit_url: null
 hide_table_of_contents: true
 ---
 
+### *20250505*
+> 更換稱號顏色
+
 ### *2050421*
 > 更新至1.21.4
 

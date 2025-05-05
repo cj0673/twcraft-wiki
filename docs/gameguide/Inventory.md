@@ -1,7 +1,7 @@
 ---
-title: 冒險指南 - 與容器有關的教學
+title: 遊戲指南 - 儲物容器
 hide_title: true
-sidebar_label: 容器篇
+sidebar_label: 儲物容器
 sidebar_position: 3
 ---
 

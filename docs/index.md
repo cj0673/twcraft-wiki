@@ -32,7 +32,7 @@ description: 一個24小時在線的 Minecraft 伺服器，主打長期、穩定
 
     ### 伺服器位址：mc.sfpdev.com
 
-    ### [Discord群組](https://discord.gg/MK33s4Ndur)
+    ### [Discord](https://discord.gg/MK33s4Ndur)
 
     <div style={{ height: "30px" }}></div>
 
