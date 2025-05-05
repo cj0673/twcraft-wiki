@@ -6,8 +6,11 @@ sidebar_position: 7
 hide_table_of_contents: true
 ---
 
+import Comment from '@site/src/components/comment';
+
 **KZI_8wSA1X_05_30 ad405581-0904-4edc-b724-cc8208d1facb**  
 2025-03-02 18:42 刻意破壞人為建築
+<Comment>該玩家IP位置與ChamAuChocolat相同</Comment>
 
 **kill_the_bird 196de1f2-c06d-4800-b185-c0b471d51b12**  
 2025-03-02 18:26 刻意破壞人為建築

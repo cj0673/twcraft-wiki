@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '寧靜居',
-  tagline: '長期、原味、溫暖的 Minecraft 生存伺服器 Wiki',
+  tagline: '長期、穩定、流暢的 Minecraft 生存伺服器 Wiki',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -59,14 +59,14 @@ const config: Config = {
     announcementBar: {
       id: 'support_us',
       content:
-        '🛠️ Wiki 還在更新！有任何改進點，快到 Discord 找我聊，或直接到 GitHub 開 PR 吧！',
+        '🛠️ Wiki 還在更新！有任何想法歡迎到 Discord 找我討論',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
       isCloseable: false,
     },
     metadata: [
-      { name: 'description', content: '寧靜居 Wiki：長期、原味、溫暖的 Minecraft 生存伺服器' },
-      { name: 'keywords', content: '寧靜居, Minecraft原味生存' },
+      { name: 'description', content: '寧靜居 Wiki：長期、穩定、流暢的 Minecraft 生存伺服器' },
+      { name: 'keywords', content: '寧靜居, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
     ],
     navbar: {
       title: '寧靜居',
@@ -124,7 +124,7 @@ const config: Config = {
         '@type': 'GameServer',
         "name": "寧靜居",
         "url": "https://mcwiki.sfpdev.com",
-        "description": "寧靜居是一個長期穩定的 Minecraft 伺服器。專注於原味生存，為玩家提供溫暖、像家的遊戲體驗",
+        "description": "寧靜居是一個長期、穩定、流暢的 Minecraft 伺服器。專注於原味生存，擁有領地飛行、防噴防爆、經濟系統、浮動物價商店。為玩家提供輕鬆、溫暖、像家的遊戲體驗",
         "game": "Minecraft",
         "serverStatus": "Online",
         "additionalType": "Survival Server"

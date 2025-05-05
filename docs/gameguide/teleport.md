@@ -1,13 +1,13 @@
 ---
-title: 冒險指南 - 與傳送有關的教學
+title: 遊戲指南 - 傳送
 hide_title: true
-sidebar_label: 傳送篇
+sidebar_label: 傳送
 sidebar_position: 7
 ---
 
 ### 我該如何使用隨機傳送？
 > - 使用 `/rt` 即可進行隨機傳送
-> - 在遊戲選單的快捷指令列表內點擊 `隨機傳送`
+> - 在[遊戲選單](/gameguide/basic#我要怎麼打開遊戲選單)的快捷指令列表內點擊 `隨機傳送`
 
 ### 隨機傳送有什麼限制嗎？
 > - 當完成一次隨機傳送後，需要等待10秒才能進行下一次隨機傳送  
@@ -29,7 +29,7 @@ sidebar_position: 7
 ### 我該如何讓朋友傳送到我身邊？
 > 使用 `/tpahere player` 發送傳送申請  
 >
-> - 您希望某一位朋友傳送到您身邊，假設他的ID是 Example
+> - 例：您希望某一位朋友傳送到您身邊，假設他的ID是 Example
 > 1. 使用 `/tpahere Example`
 > 2. 請朋友按下 [✔️]
 > 3. 您的朋友必須待在原地不要移動
@@ -37,7 +37,7 @@ sidebar_position: 7
 ### 我該如何設定Home點？
 > 使用 `/sethome name` 可以設定Home點
 >
-> - 您希望設定一個名為ExampleHome的Home傳送點
+> - 例：您希望設定一個名為ExampleHome的Home傳送點
 > 1. 使用 `/sethome ExampleHome`
 
 ### 我可以設定幾個Home點？
@@ -46,13 +46,13 @@ sidebar_position: 7
 ### 我該如何傳送到我的Home點？
 > 使用 `/home name` 可以傳送到Home點
 >
-> - 您已經擁有一個Home點，名字是ExampleHome，你想傳送到那邊
+> - 例：您已經擁有一個Home點，名字是ExampleHome，你想傳送到那邊
 > 1. 使用 `/home ExampleHome`
 
 ### 我該如何刪除我的Home點？
 > 使用 `/delhome name`
 >
-> - 您已經擁有一個Home點，名字是ExampleHome，你想刪除他
+> - 例：您已經擁有一個Home點，名字是ExampleHome，你想刪除他
 > 1. 使用 `/delhome ExampleHome`
 
 ### Home點有圖形介面嗎？
