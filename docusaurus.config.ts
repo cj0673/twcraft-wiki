@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cj0673', // Usually your GitHub org/user name.
-  projectName: 'sfpdev-mcwiki', // Usually your repo name.
+  projectName: 'twcraft-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -41,7 +41,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cj0673/sfpdev-mcwiki/blob/main/',
+            'https://github.com/cj0673/twcraft-wiki/blob/main/',
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config: Config = {
           label: 'Wiki',
         },
         {
-          href: 'https://github.com/cj0673/sfpdev-mcwiki',
+          href: 'https://github.com/cj0673/twcraft-wiki',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
