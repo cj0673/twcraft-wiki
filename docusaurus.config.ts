@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mcwiki.sfpdev.com',
+  url: 'https://twcraft.net/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -110,7 +110,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'preconnect',
-        href: 'https://mcwiki.sfpdev.com',
+        href: 'https://twcraft.net/',
       },
     },
     // Declare some json-ld structured data
@@ -123,7 +123,7 @@ const config: Config = {
         '@context': 'https://schema.org/',
         '@type': 'GameServer',
         "name": "寧靜居",
-        "url": "https://mcwiki.sfpdev.com",
+        "url": "https://twcraft.net/",
         "description": "寧靜居是一個長期、穩定、流暢的 Minecraft 伺服器。專注於原味生存，擁有領地飛行、防噴防爆、經濟系統、浮動物價商店。為玩家提供輕鬆、溫暖、像家的遊戲體驗",
         "game": "Minecraft",
         "serverStatus": "Online",

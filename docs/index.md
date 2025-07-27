@@ -30,7 +30,7 @@ description: 一個24小時在線的 Minecraft 伺服器，主打長期、穩定
 
     ### 架設地點：臺灣 新北市
 
-    ### 伺服器位址：mc.sfpdev.com
+    ### 伺服器位址：twcraft.net
 
     ### [Discord](https://discord.gg/MK33s4Ndur)
 
