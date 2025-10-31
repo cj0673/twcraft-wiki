@@ -9,6 +9,10 @@ custom_edit_url: null
 hide_table_of_contents: true
 ---
 
+### *20251031*
+>
+> 修復睡覺無法跳過或加速時間的問題
+
 ### *20251024*
 >
 > 更新至 1.21.8
