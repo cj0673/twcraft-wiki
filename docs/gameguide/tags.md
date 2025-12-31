@@ -34,5 +34,5 @@ import Comment from '@site/src/components/comment';
 >
 > 截至 2025/10/22  
 > 服主頒發稱號共 2 個  
-> 活動限定稱號共 5 個  
+> 活動限定稱號共 6 個  
 > 完成進度稱號共 11 個
