@@ -21,7 +21,12 @@ const config: Config = {
   projectName: 'twcraft-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -44,11 +49,19 @@ const config: Config = {
             'https://github.com/cj0673/twcraft-wiki/blob/main/',
         },
         blog: false,
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
         gtag: {
           trackingID: 'G-V4F6MTCNTQ',
+          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],
@@ -65,8 +78,8 @@ const config: Config = {
       isCloseable: false,
     },
     metadata: [
-      { name: 'description', content: '寧靜居 Wiki：長期、穩定、流暢的 Minecraft 生存伺服器' },
-      { name: 'keywords', content: '寧靜居, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
+      { name: 'description', content: '寧靜居 Minecraft 伺服器 Wiki：致力於打造一個長期穩定、流暢且溫暖的 Java 版社群' },
+      { name: 'keywords', content: '寧靜居, 寧靜居 Wiki, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
     ],
     navbar: {
       title: '寧靜居',
