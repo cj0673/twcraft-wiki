@@ -9,5 +9,5 @@ hide_table_of_contents: true
 <div style={{ textAlign: "center" }}>
     **一次性隱形展示框**
 
-    ![](/images/一次性隱形展示框.gif)
+    ![一次性隱形展示框合成表](/images/一次性隱形展示框.gif)
 </div>
