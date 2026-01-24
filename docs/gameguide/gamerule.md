@@ -5,6 +5,8 @@ sidebar_label: 原版機制修改
 sidebar_position: 3
 ---
 
+## 起源分流
+
 ### 🌍 世界 / 生物 / 運算
 
 - 蝙蝠不會生成
