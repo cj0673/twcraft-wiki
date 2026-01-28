@@ -22,15 +22,8 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
 
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: 'warn',
-    },
-  },
+  onBrokenMarkdownLinks: 'throw',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hant',
     locales: ['zh-Hant'],
@@ -51,8 +44,6 @@ const config: Config = {
         blog: false,
         sitemap: {
           lastmod: 'date',
-          changefreq: 'weekly',
-          priority: 0.5,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
@@ -69,16 +60,10 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    announcementBar: {
-      id: 'support_us',
-      content:
-        '🛠️ Wiki 還在更新！有任何想法歡迎到 Discord 找我討論',
-      backgroundColor: '#fafbfc',
-      textColor: '#091E42',
-      isCloseable: false,
-    },
+    image: 'img/social-card.png',
     metadata: [
       { name: 'description', content: '寧靜居 Minecraft 伺服器 Wiki：致力於打造一個長期穩定、流暢且溫暖的 Java 版社群' },
+      { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'keywords', content: '寧靜居, 寧靜居 Wiki, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
     ],
     navbar: {
