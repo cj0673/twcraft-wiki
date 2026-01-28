@@ -1,9 +1,17 @@
 ---
-title: 遊戲指南 - 經濟
+title: 經濟系統（大規模重構中）
 hide_title: true
-sidebar_label: 經濟
-sidebar_position: 2
+sidebar_label: 經濟系統（大規模重構中）
+sidebar_position: 10
+description: TWCraft 寧靜居起源分流的經濟系統說明，包含遊戲商店、玩家商店等賺錢方式
+keywords: [TWCraft, 寧靜居, minecraft, 起源, 經濟, 商店, 交易]
 ---
+
+<div style={{ textAlign: "center" }}>
+    :::warning 開發中
+    經濟系統正在大規模重構，本頁內容可能不完整或過時
+    :::
+</div>
 
 ### 如何在本伺服器中賺錢？
 >
@@ -12,7 +20,7 @@ sidebar_position: 2
 
 ### 我該怎麼開啟遊戲商店或玩家商店？
 >
-> 請開啟 [遊戲選單](/gameguide/basic#如何開啟遊戲選單) 並對 `遊戲商店 & 玩家商店` 點擊 `滑鼠左鍵` 或 `滑鼠右鍵` 以開啟商店介面  
+> 請開啟 [遊戲選單](/gameguide/origin/basic#如何開啟遊戲選單) 並對 `遊戲商店 & 玩家商店` 點擊 `滑鼠左鍵` 或 `滑鼠右鍵` 以開啟商店介面  
 
 ### 為什麼遊戲商店的物價會波動？
 >

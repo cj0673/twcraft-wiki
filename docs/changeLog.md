@@ -6,13 +6,17 @@ sidebar_position: 6
 pagination_next: null
 pagination_prev: null
 custom_edit_url: null
+description: TWCraft 寧靜居伺服器的更新紀錄，查看最新的遊戲版本、功能更新和修復
+keywords: [TWCraft, 寧靜居, minecraft伺服器, 更新紀錄, changelog, 版本更新, 功能改進, 伺服器更新]
 ---
 
 ## 2026 年
 
 ### 2026-01-28
 >
-> 更新至 1.21.11
+> 更新至 1.21.11  
+> 主世界的邊界現在調整為半徑 15000 格的圓形  
+> 大幅改進 Wiki 文檔：重構指南分類、重新編寫內文
 
 ### 2026-01-27
 >

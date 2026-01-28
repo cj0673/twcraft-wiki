@@ -1,0 +1,4 @@
+.comment {
+  font-size: 0.75em;
+  color: var(--ifm-color-comment-text);
+}
