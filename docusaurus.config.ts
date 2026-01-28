@@ -21,12 +21,20 @@ const config: Config = {
   projectName: 'twcraft-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
+  onBrokenAnchors: 'warn',
 
-  onBrokenMarkdownLinks: 'throw',
+  trailingSlash: false,
 
   i18n: {
     defaultLocale: 'zh-Hant',
     locales: ['zh-Hant'],
+  },
+
+  markdown: {
+    mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
   },
 
   presets: [
@@ -40,6 +48,8 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/cj0673/twcraft-wiki/blob/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: false,
         },
         blog: false,
         sitemap: {
@@ -64,6 +74,12 @@ const config: Config = {
     metadata: [
       { name: 'description', content: '寧靜居 Minecraft 伺服器 Wiki：致力於打造一個長期穩定、流暢且溫暖的 Java 版社群' },
       { name: 'twitter:card', content: 'summary_large_image' },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:site_name', content: '寧靜居 Wiki' },
+      { property: 'og:image:width', content: '1200' },
+      { property: 'og:image:height', content: '630' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
+      { name: 'theme-color', content: '#2e8555' },
       { name: 'keywords', content: '寧靜居, 寧靜居 Wiki, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
     ],
     navbar: {
@@ -102,16 +118,30 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 
-  headTags: [
-    // Declare a <link> preconnect tag
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
-        href: 'https://twcraft.net/',
-      },
+  future: {
+    v4: {
+      useCssCascadeLayers: true,
     },
-    // Declare some json-ld structured data
+  },
+
+  headTags: [
+    // Organization structured data - improves search engine understanding
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org/',
+        '@type': 'Organization',
+        'name': '寧靜居',
+        'url': 'https://twcraft.net/',
+        'logo': 'https://twcraft.net/img/favicon.ico',
+        'description': '長期、穩定、流暢的 Minecraft 生存伺服器',
+        'sameAs': ['https://github.com/cj0673/twcraft-wiki'],
+      }),
+    },
+    // GameServer structured data
     {
       tagName: 'script',
       attributes: {
@@ -120,12 +150,37 @@ const config: Config = {
       innerHTML: JSON.stringify({
         '@context': 'https://schema.org/',
         '@type': 'GameServer',
-        "name": "寧靜居",
-        "url": "https://twcraft.net/",
-        "description": "寧靜居是一個長期、穩定、流暢的 Minecraft 伺服器。專注於原味生存，擁有領地飛行、防噴防爆、經濟系統、浮動物價商店。為玩家提供輕鬆、溫暖、像家的遊戲體驗",
-        "game": "Minecraft",
-        "serverStatus": "Online",
-        "additionalType": "Survival Server"
+        'name': '寧靜居',
+        'url': 'https://twcraft.net/',
+        'description': '寧靜居是一個長期、穩定、流暢的 Minecraft 伺服器。專注於原味生存，擁有領地飛行、防噴防爆、經濟系統、浮動物價商店。為玩家提供輕鬆、溫暖、像家的遊戲體驗',
+        'game': 'Minecraft',
+        'serverStatus': 'Online',
+        'additionalType': 'Survival Server',
+      }),
+    },
+    // BreadcrumbList for better SEO and navigation
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org/',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          {
+            '@type': 'ListItem',
+            'position': 1,
+            'name': '首頁',
+            'item': 'https://twcraft.net/'
+          },
+          {
+            '@type': 'ListItem',
+            'position': 2,
+            'name': '遊戲指南',
+            'item': 'https://twcraft.net/gameguide/origin'
+          }
+        ]
       }),
     },
   ],
