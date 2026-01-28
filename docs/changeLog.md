@@ -36,7 +36,7 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, 更新紀錄, changelog, 版�
 
 ### 2026-01-24
 >
-> 增加生物數量限制，詳見[機制修改頁面](/gameguide/gamerule)  
+> 增加生物數量限制，詳見[機制修改頁面](/gameguide/origin/gamerule)  
 > 修復分流重啟後沒辦法自動傳送回去的問題  
 > 「Origin 起源」現在會在每日凌晨五點重啟  
 > 新增靜音模式，可以透過遊戲面板切換啟用狀態  
@@ -55,7 +55,7 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, 更新紀錄, changelog, 版�
 > 圖騰在背包內的任意位置都可以被觸發  
 > 盔甲架現在會顯示手臂並且可以放置物品  
 > 擁有無限附魔的的弓不再需要攜帶箭矢也能射擊  
-> 將部分掉落物的清除時間改為 60 秒，詳見[機制修改頁面](/gameguide/gamerule)  
+> 將部分掉落物的清除時間改為 60 秒，詳見[機制修改頁面](/gameguide/origin/gamerule)  
 > 現在可以使用哭泣的黑曜石（crying_obsidian）來製作地獄門
 
 ### 2026-01-02
