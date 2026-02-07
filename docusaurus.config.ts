@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: '寧靜居',
-  tagline: '長期、穩定、流暢的 Minecraft 生存伺服器 Wiki',
+  title: '寧靜居 Minecraft 伺服器 Wiki',
+  tagline: '長期、穩定、流暢的 Minecraft 伺服器 Wiki',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -72,7 +72,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/social-card.png',
     metadata: [
-      { name: 'description', content: '寧靜居 Minecraft 伺服器 Wiki：致力於打造一個長期穩定、流暢且溫暖的 Java 版社群' },
+      { name: 'description', content: '寧靜居 Minecraft 伺服器 Wiki：致力於打造一個長期穩定、流暢且溫暖的社群' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { property: 'og:type', content: 'website' },
       { property: 'og:site_name', content: '寧靜居 Wiki' },
@@ -83,7 +83,7 @@ const config: Config = {
       { name: 'keywords', content: '寧靜居, 寧靜居 Wiki, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
     ],
     navbar: {
-      title: '寧靜居',
+      title: '寧靜居 | Minecraft 伺服器 Wiki',
       items: [
         {
           type: 'docSidebar',
@@ -178,7 +178,7 @@ const config: Config = {
             '@type': 'ListItem',
             'position': 2,
             'name': '遊戲指南',
-            'item': 'https://twcraft.net/gameguide/origin'
+            'item': 'https://twcraft.net/gameguide/'
           }
         ]
       }),

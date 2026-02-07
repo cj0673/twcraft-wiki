@@ -1,6 +1,6 @@
 ---
 slug: /
-title: TWCraft - 寧靜居 Minecraft 伺服器
+title: 主頁
 hide_title: true
 sidebar_label: 主頁
 sidebar_position: 0
@@ -29,7 +29,7 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, minecraft, 台灣伺服器, �
 
 ### 🎮 立即開始
 
-**伺服器位址**：<code style={{ cursor: 'pointer', userSelect: 'all' }} onClick={(e) => { navigator.clipboard.writeText('twcraft.net'); const original = e.target.textContent; e.target.textContent = '已複製！'; setTimeout(() => { e.target.textContent = original; }, 3000); }} title="點擊複製">twcraft.net</code>  
+**伺服器位址**：<code style={{ cursor: 'pointer', userSelect: 'all' }} onClick={(e) => { navigator.clipboard.writeText('twcraft.net'); const original = e.target.textContent; e.target.textContent = '已複製！'; setTimeout(() => { e.target.textContent = original; }, 2000); }} title="點擊複製">twcraft.net</code>  
 **遊戲版本**：Minecraft Java 1.21.11  
 **Discord 社群**：[立即加入](https://discord.gg/MK33s4Ndur)
 
@@ -37,11 +37,11 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, minecraft, 台灣伺服器, �
 
 ### 📖 新手上路
 
-不知道從哪裡開始？查看 [遊戲指南](/gameguide/origin) 了解伺服器特色與功能  
+不知道從哪裡開始？查看 [遊戲指南](/gameguide) 了解伺服器特色與功能  
 想了解規則？閱讀 [社群守則](/rule) 確保遊戲體驗愉快
 
 <div style={{ height: "30px" }}></div>
 
-![伺服器預覽](https://image.mc-list.xyz/preview/21-2209.png?bannerShowIcon=1&bannerShowVersion=0)
+![伺服器狀態](https://image.mc-list.xyz/preview/21-2209.png?bannerShowIcon=1&bannerShowVersion=0)
 
 </div>
