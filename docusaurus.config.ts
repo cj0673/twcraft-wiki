@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '寧靜居 Minecraft 伺服器 Wiki',
-  tagline: '長期、穩定、流暢的 Minecraft 伺服器 Wiki',
+  tagline: '長期穩定、流暢的 Minecraft 伺服器',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -72,18 +72,18 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/social-card.png',
     metadata: [
-      { name: 'description', content: '寧靜居 Minecraft 伺服器 Wiki：致力於打造一個長期穩定、流暢且溫暖的社群' },
+      { name: 'description', content: '寧靜居是台灣的 Minecraft 生存伺服器，提供領地保護、職業系統與多種便利功能，24 小時穩定運行' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { property: 'og:type', content: 'website' },
-      { property: 'og:site_name', content: '寧靜居 Wiki' },
+      { property: 'og:site_name', content: '寧靜居' },
       { property: 'og:image:width', content: '1200' },
       { property: 'og:image:height', content: '630' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
       { name: 'theme-color', content: '#2e8555' },
-      { name: 'keywords', content: '寧靜居, 寧靜居 Wiki, Minecraft 寧靜居伺服器, 生存, 原味生存, Minecraft 伺服器, Minecraft 建築生存伺服器, Minecraft 領地飛行伺服器' },
+      { name: 'keywords', content: '寧靜居, TWCraft, Minecraft, 台灣伺服器, 生存伺服器, 領地保護, 職業系統' },
     ],
     navbar: {
-      title: '寧靜居 | Minecraft 伺服器 Wiki',
+      title: '寧靜居 | Minecraft 伺服器',
       items: [
         {
           type: 'docSidebar',
@@ -137,7 +137,7 @@ const config: Config = {
         'name': '寧靜居',
         'url': 'https://twcraft.net/',
         'logo': 'https://twcraft.net/img/favicon.ico',
-        'description': '長期、穩定、流暢的 Minecraft 生存伺服器',
+        'description': '台灣的 Minecraft 伺服器，長期穩定運營',
         'sameAs': ['https://github.com/cj0673/twcraft-wiki'],
       }),
     },
@@ -152,7 +152,7 @@ const config: Config = {
         '@type': 'GameServer',
         'name': '寧靜居',
         'url': 'https://twcraft.net/',
-        'description': '寧靜居是一個長期、穩定、流暢的 Minecraft 伺服器。專注於原味生存，擁有領地飛行、防噴防爆、經濟系統、浮動物價商店。為玩家提供輕鬆、溫暖、像家的遊戲體驗',
+        'description': '架設於台灣的 Minecraft 生存伺服器，24 小時運行。起源分流提供領地保護、職業系統、傳送功能等實用功能，保留原版玩法同時增加便利性',
         'game': 'Minecraft',
         'serverStatus': 'Online',
         'additionalType': 'Survival Server',

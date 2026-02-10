@@ -12,33 +12,66 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, minecraft, 台灣伺服器, �
 
 <div style={{ textAlign: "center" }} className="hide-anchor-links">
 
-## 一個讓你安心建造、輕鬆探險的 Minecraft 伺服器
+## 一個讓你盡情探索的 Minecraft 伺服器
 
 <div style={{ height: "20px" }}></div>
 
-### ✨ 為什麼選擇寧靜居？
+### 為什麼選擇寧靜居？
 
 **長期穩定** — 24 小時在線，架設於台灣新北市，低延遲高品質  
-**領地保護** — 圈地保護建築，還能在領地內飛行，建造更輕鬆  
-**死亡友善** — 死亡不掉落，讓你放心探索、不怕失去珍貴物品  
-**便利功能** — 傳送系統、自動整理、連鎖砍樹，節省時間享受遊戲  
-**社交自由** — 想獨處就開靜音，只想跟朋友聊天就建私人聊天室  
-**原版體驗** — 保留原版生存核心，只增加不影響平衡的便利功能
+**友善社群** — 成熟玩家社群，互助友善的遊戲氛圍  
+**多元玩法** — 提供多個遊戲分流，滿足不同玩家的需求  
+**持續更新** — 定期更新版本與功能，帶來全新體驗  
+**用心經營** — 完善的規則與管理，確保公平遊戲環境
 
 <div style={{ height: "20px" }}></div>
 
-### 🎮 立即開始
+### 選擇你的遊戲風格
 
-**伺服器位址**：<code style={{ cursor: 'pointer', userSelect: 'all' }} onClick={(e) => { navigator.clipboard.writeText('twcraft.net'); const original = e.target.textContent; e.target.textContent = '已複製！'; setTimeout(() => { e.target.textContent = original; }, 2000); }} title="點擊複製">twcraft.net</code>  
+[**起源（Origin）分流**](/gameguide/origin)  
+領地保護、職業系統、傳送功能、死亡不掉落  
+適合喜愛原版生存但需要基礎保護的玩家  
+
+<div style={{ height: "20px" }}></div>
+
+### 新手上路
+
+**第一次來嗎？**  
+查看 [分流指南](/gameguide) 選擇適合你的遊戲模式  
+閱讀 [社群守則](/rule) 了解伺服器規範
+
+<div style={{ height: "20px" }}></div>
+
+### 立即開始
+
+**伺服器 IP**：<span style={{
+  cursor: 'pointer',
+  color: 'var(--ifm-color-primary)',
+  textDecoration: 'underline',
+  textDecorationStyle: 'dotted',
+  textUnderlineOffset: '3px',
+  transition: 'all 0.2s ease'
+}} onClick={(e) => {
+  navigator.clipboard.writeText('twcraft.net');
+  const span = e.target;
+  const feedback = span.nextElementSibling;
+  feedback.style.display = 'inline';
+  setTimeout(() => {
+    feedback.style.display = 'none';
+  }, 2000);
+}} onMouseEnter={(e) => {
+  e.target.style.color = 'var(--ifm-color-primary-dark)';
+}} onMouseLeave={(e) => {
+  e.target.style.color = 'var(--ifm-color-primary)';
+}} title="點擊複製">twcraft.net</span><span style={{
+  display: 'none',
+  marginLeft: '8px',
+  color: 'var(--ifm-color-success)',
+  fontSize: '0.9em',
+  fontWeight: 'normal'
+}}>已複製</span>  
 **遊戲版本**：Minecraft Java 1.21.11  
 **Discord 社群**：[立即加入](https://discord.gg/MK33s4Ndur)
-
-<div style={{ height: "20px" }}></div>
-
-### 📖 新手上路
-
-不知道從哪裡開始？查看 [遊戲指南](/gameguide) 了解伺服器特色與功能  
-想了解規則？閱讀 [社群守則](/rule) 確保遊戲體驗愉快
 
 <div style={{ height: "30px" }}></div>
 

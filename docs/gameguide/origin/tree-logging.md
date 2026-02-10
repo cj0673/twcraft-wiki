@@ -2,7 +2,7 @@
 title: 連鎖砍樹
 hide_title: true
 sidebar_label: 連鎖砍樹
-sidebar_position: 7
+sidebar_position: 8
 description: TWCraft 寧靜居起源分流的連鎖砍樹功能說明，包含啟用方式、工作原理、樹苗補種和工具耐久度等詳細教學
 keywords: [TWCraft, 寧靜居, minecraft, 起源, 連鎖砍樹, 砍樹, 樹苗, 原木]
 ---
