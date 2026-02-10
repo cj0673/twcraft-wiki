@@ -15,8 +15,8 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, 更新紀錄, changelog, 版�
 ### 2026-02-10
 >
 > 經濟洗白  
-> 新增[職業系統](/gameguide/origin/jobs)
-> 針對玩家連線延遲的優化  
+> 新增[職業系統](/gameguide/origin/jobs)  
+> 針對玩家連線延遲的優化
 
 ### 2026-01-30
 >
