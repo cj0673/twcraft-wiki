@@ -12,6 +12,11 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, 更新紀錄, changelog, 版�
 
 ## 2026 年
 
+### 2026-03-06
+>
+> 現在需要對生物造成 80% 以上的傷害才能獲得職業獎勵  
+> 可獲得職業獎勵的行為調整，詳見[職業系統頁面](/gameguide/origin/jobs)
+
 ### 2026-03-05
 >
 > 更新原版機制修改頁面中關於生物數量限制的內容，詳見[原版機制修改頁面](/gameguide/origin/gamerule)
