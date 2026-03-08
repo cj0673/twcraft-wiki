@@ -2,7 +2,7 @@
 title: 背包與容器
 hide_title: true
 sidebar_label: 背包與容器
-sidebar_position: 7
+sidebar_position: 8
 description: TWCraft 寧靜居起源分流的儲物容器功能說明與使用教學
 keywords: [TWCraft, 寧靜居, minecraft, 起源, 儲物, 容器, 整理, 鎖定]
 ---

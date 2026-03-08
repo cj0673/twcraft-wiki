@@ -29,8 +29,8 @@ keywords: [TWCraft, 寧靜居, minecraft伺服器, minecraft, 台灣伺服器, �
 ### 選擇你的遊戲風格
 
 [**起源（Origin）分流**](/gameguide/origin)  
-領地保護、職業系統、傳送功能、死亡不掉落  
-適合喜愛原版生存但需要基礎保護的玩家  
+領地保護、職業賺錢、遊戲商店、自訂家具、死亡不掉落  
+保留原版核心玩法，加上便利功能，讓你安心建造、盡情探索  
 
 <div style={{ height: "20px" }}></div>
 
