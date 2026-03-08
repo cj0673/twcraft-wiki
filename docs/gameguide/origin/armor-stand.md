@@ -3,8 +3,8 @@ title: 盔甲架編輯器
 hide_title: true
 sidebar_label: 盔甲架編輯器
 sidebar_position: 11
-description: TWCraft 寧靜居起源分流的盔甲架編輯器功能說明與使用教學
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 盔甲架, 編輯器, 裝飾, 展示]
+description: TWCraft 寧靜居起源分流的盔甲架編輯器說明，透過 GUI 介面調整盔甲架姿勢、手臂、旋轉角度，輕鬆打造精緻裝飾展示
+keywords: [TWCraft, 寧靜居起源, 盔甲架, 姿勢編輯, 裝飾展示]
 ---
 
 ## 盔甲架編輯器

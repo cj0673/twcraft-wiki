@@ -3,8 +3,8 @@ title: 基礎操作與系統說明
 hide_title: true
 sidebar_label: 基礎操作與系統
 sidebar_position: 1
-description: TWCraft 寧靜居起源分流的基礎操作與遊戲機制說明
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 基礎, 操作, 常見問題, FAQ]
+description: TWCraft 寧靜居起源分流的基礎操作說明，包含遊戲選單使用方式、死亡機制、精靈電梯等新手必讀功能
+keywords: [TWCraft, 寧靜居起源, 遊戲選單, 新手指引, 電梯]
 ---
 
 ## 基礎操作與系統說明

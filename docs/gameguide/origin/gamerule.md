@@ -3,8 +3,8 @@ title: 原版機制修改
 hide_title: true
 sidebar_label: 原版機制修改
 sidebar_position: 2
-description: TWCraft 寧靜居起源分流對原版 Minecraft 機制的調整說明
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 遊戲規則, 機制修改, gamerule]
+description: TWCraft 寧靜居起源分流對原版 Minecraft 機制的調整說明，包含生物數量限制、農務管理優化、戰鬥與掉落修改等
+keywords: [TWCraft, 寧靜居起源, 機制修改, 生物上限, 農業優化]
 ---
 
 ## 原版機制修改

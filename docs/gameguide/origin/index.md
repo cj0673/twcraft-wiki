@@ -3,8 +3,8 @@ title: 起源分流
 hide_title: true
 sidebar_label: 起源總覽
 sidebar_position: 0
-description: TWCraft 寧靜居起源分流總覽，包含伺服器特色、功能導航與新手指引
-keywords: [TWCraft, 寧靜居, minecraft, 起源, Origin, 分流介紹, 遊戲指南, 領地保護]
+description: TWCraft 寧靜居起源分流總覽，領地保護、職業賺錢、遊戲商店、自訂家具、連鎖砍樹，保留原版生存玩法
+keywords: [TWCraft, 寧靜居, 起源分流, 領地保護, 遊戲商店, 自訂家具]
 ---
 
 ## 起源（Origin）

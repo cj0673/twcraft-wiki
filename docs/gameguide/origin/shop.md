@@ -3,8 +3,8 @@ title: 遊戲商店
 hide_title: true
 sidebar_label: 遊戲商店
 sidebar_position: 6
-description: TWCraft 寧靜居起源分流的遊戲商店說明，包含商店分類、購買出售方式與動態定價機制
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 遊戲商店, 商店, 購買, 出售, 動態定價]
+description: TWCraft 寧靜居起源分流的遊戲商店說明，包含商店分類、購買與出售方式，以及動態定價機制的運作原理
+keywords: [TWCraft, 寧靜居起源, 遊戲商店, 動態定價, 買賣物品]
 ---
 
 ## 遊戲商店

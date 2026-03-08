@@ -3,8 +3,8 @@ title: 分流指南
 hide_title: true
 sidebar_label: 分流指南
 sidebar_position: 1
-description: TWCraft 寧靜居伺服器的分流介紹與遊戲指南，了解各分流特色並選擇適合你的遊戲模式
-keywords: [TWCraft, 寧靜居, minecraft伺服器, 遊戲指南, 分流, Origin, 起源, 生存模式]
+description: TWCraft 寧靜居的起源（Origin）分流介紹，提供領地保護、職業賺錢、遊戲商店、自訂家具等功能
+keywords: [TWCraft, 寧靜居, minecraft 生存伺服器, 起源分流, 領地保護]
 ---
 
 ## 選擇你的分流

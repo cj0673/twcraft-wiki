@@ -3,8 +3,8 @@ title: 領地系統
 hide_title: true
 sidebar_label: 領地系統
 sidebar_position: 3
-description: TWCraft 寧靜居起源分流的領地系統功能說明與使用教學
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 領地, 保護, 宣告, 權限]
+description: TWCraft 寧靜居起源分流的領地系統說明，教你如何圈地保護建築、設定成員權限、管理子領地，防止被破壞或偷竊
+keywords: [TWCraft, 寧靜居起源, 領地保護, 圈地, 建築保護]
 ---
 
 <div style={{ textAlign: "center" }}>

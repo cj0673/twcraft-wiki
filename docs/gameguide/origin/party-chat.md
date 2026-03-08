@@ -3,8 +3,8 @@ title: 私人聊天室
 hide_title: true
 sidebar_label: 私人聊天室
 sidebar_position: 10
-description: TWCraft 寧靜居起源分流的私人聊天室功能說明與使用教學
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 聊天室, 私人頻道, 邀請, 派對]
+description: TWCraft 寧靜居起源分流的私人聊天室說明，建立專屬聊天頻道邀請朋友加入，讓對話只在小圈圈內流通
+keywords: [TWCraft, 寧靜居起源, 私人聊天室, 好友頻道, 私人頻道]
 ---
 
 ## 私人聊天室

@@ -37,6 +37,21 @@ const config: Config = {
     },
   },
 
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['zh', 'en'],
+        indexDocs: true,
+        indexBlog: false,
+        docsRouteBasePath: '/',
+        searchResultLimits: 8,
+        searchBarShortcutHint: false,
+      },
+    ],
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -72,7 +87,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/social-card.png',
     metadata: [
-      { name: 'description', content: '寧靜居是台灣的 Minecraft 生存伺服器，提供領地保護、職業系統與多種便利功能，24 小時穩定運行' },
+      { name: 'description', content: '寧靜居是台灣的 Minecraft 生存伺服器，提供領地保護、職業系統、遊戲商店、自訂家具等豐富功能，24 小時穩定運行' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { property: 'og:type', content: 'website' },
       { property: 'og:site_name', content: '寧靜居' },
@@ -102,6 +117,10 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {
+          label: 'Discord',
+          href: 'https://discord.gg/MK33s4Ndur',
+        },
         {
           label: 'McList',
           href: 'https://www.mc-list.xyz/2209/info',
@@ -152,7 +171,7 @@ const config: Config = {
         '@type': 'GameServer',
         'name': '寧靜居',
         'url': 'https://twcraft.net/',
-        'description': '架設於台灣的 Minecraft 生存伺服器，24 小時運行。起源分流提供領地保護、職業系統、傳送功能等實用功能，保留原版玩法同時增加便利性',
+        'description': '架設於台灣的 Minecraft 生存伺服器，24 小時運行。起源分流提供領地保護、職業系統、遊戲商店、自訂家具等功能，保留原版玩法同時增加便利性',
         'game': 'Minecraft',
         'serverStatus': 'Online',
         'additionalType': 'Survival Server',
@@ -178,7 +197,7 @@ const config: Config = {
             '@type': 'ListItem',
             'position': 2,
             'name': '遊戲指南',
-            'item': 'https://twcraft.net/gameguide/'
+            'item': 'https://twcraft.net/gameguide'
           }
         ]
       }),

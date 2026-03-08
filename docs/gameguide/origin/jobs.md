@@ -3,8 +3,8 @@ title: 職業系統
 hide_title: true
 sidebar_label: 職業系統
 sidebar_position: 5
-description: TWCraft 寧靜居起源分流的職業系統說明，包含農夫、獵人、礦工、伐木工等職業介紹
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 職業, Jobs, 農夫, 獵人, 礦工, 伐木工]
+description: TWCraft 寧靜居起源分流的職業系統說明，透過農夫、獵人、礦工、伐木工在日常遊玩中賺取金錢
+keywords: [TWCraft, 寧靜居起源, 職業系統, 賺錢, 農夫, 礦工]
 ---
 
 ## 職業系統

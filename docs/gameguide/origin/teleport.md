@@ -3,8 +3,8 @@ title: 傳送系統
 hide_title: true
 sidebar_label: 傳送系統
 sidebar_position: 4
-description: TWCraft 寧靜居起源分流的傳送系統功能說明與使用教學
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 傳送, teleport, home]
+description: TWCraft 寧靜居起源分流的傳送系統說明，包含 Home 點設置與傳送、隨機傳送、玩家互傳等功能
+keywords: [TWCraft, 寧靜居起源, 傳送系統, /home, 隨機傳送]
 ---
 
 ## 傳送系統

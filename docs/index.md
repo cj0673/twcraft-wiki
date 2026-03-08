@@ -6,8 +6,8 @@ sidebar_label: 主頁
 sidebar_position: 0
 pagination_next: null
 hide_table_of_contents: true
-description: TWCraft 寧靜居 - 台灣 Minecraft 生存伺服器，提供領地保護、死亡不掉落、傳送系統等便利功能。長期穩定運營，低延遲高品質，適合喜愛原版生存的玩家
-keywords: [TWCraft, 寧靜居, minecraft伺服器, minecraft, 台灣伺服器, 生存模式, 長期穩定, 領地保護, 死亡不掉落, 原版生存, Java版, 1.21.11, 低延遲, 台灣minecraft, 生存伺服器]
+description: TWCraft 寧靜居 - 台灣 Minecraft 生存伺服器，領地保護、職業賺錢、遊戲商店、自訂家具，低延遲長期穩定運營
+keywords: [TWCraft, 寧靜居, 台灣 minecraft 伺服器, 領地保護, 遊戲商店]
 ---
 
 <div style={{ textAlign: "center" }} className="hide-anchor-links">

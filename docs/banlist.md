@@ -5,7 +5,7 @@ sidebar_label: 封鎖紀錄
 sidebar_position: 7
 hide_table_of_contents: true
 description: TWCraft 寧靜居伺服器封禁玩家紀錄，查看違反規則被封禁的玩家及其違規原因
-keywords: [TWCraft, 寧靜居, minecraft, 封禁, 違規, 玩家紀錄, banlist]
+keywords: [TWCraft, 寧靜居, 封禁紀錄, 違規玩家]
 ---
 
 ## 封鎖紀錄

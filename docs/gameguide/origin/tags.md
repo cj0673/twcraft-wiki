@@ -3,8 +3,8 @@ title: 稱號系統
 hide_title: true
 sidebar_label: 稱號系統
 sidebar_position: 7
-description: TWCraft 寧靜居起源分流的稱號系統功能說明與使用教學
-keywords: [TWCraft, 寧靜居, minecraft, 起源, 稱號, 進度, 成就]
+description: TWCraft 寧靜居起源分流的稱號系統說明，透過完成各種遊戲成就解鎖稱號，並可自由切換顯示在名字旁
+keywords: [TWCraft, 寧靜居起源, 稱號, 成就解鎖, 自訂稱號]
 ---
 
 import Comment from '@site/src/components/comment';

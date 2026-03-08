@@ -7,7 +7,7 @@ pagination_next: null
 pagination_prev: null
 custom_edit_url: null
 description: TWCraft 寧靜居伺服器的更新紀錄，查看最新的遊戲版本、功能更新和修復
-keywords: [TWCraft, 寧靜居, minecraft伺服器, 更新紀錄, changelog, 版本更新, 功能改進, 伺服器更新]
+keywords: [TWCraft, 寧靜居, 更新紀錄, 版本更新]
 ---
 
 ## 2026 年

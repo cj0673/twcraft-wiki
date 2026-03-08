@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: 自訂合成
 sidebar_position: 5
 description: TWCraft 寧靜居伺服器的自訂合成配方，包含隱形展示框等特殊物品的製作方法
-keywords: [TWCraft, 寧靜居, minecraft, 合成表, 自訂合成, 隱形展示框, 工作台, recipes]
+keywords: [TWCraft, 寧靜居, 自訂合成, 隱形展示框]
 ---
 
 ## 關於自訂合成
