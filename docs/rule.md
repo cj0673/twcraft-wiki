@@ -3,6 +3,7 @@ title: 社群守則與遊戲規則
 hide_title: true
 sidebar_label: 社群守則
 sidebar_position: 1
+custom_edit_url: null
 description: TWCraft 寧靜居伺服器的社群守則與遊戲規則，包含禁止事項、BUG 回報規範、廣告限制及違規處理辦法
 keywords: [TWCraft, 寧靜居, 社群守則, 禁止事項, 違規處理]
 ---

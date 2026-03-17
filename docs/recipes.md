@@ -3,13 +3,15 @@ title: 自訂合成表
 hide_title: true
 sidebar_label: 自訂合成
 sidebar_position: 5
+pagination_next: null
+custom_edit_url: null
 description: TWCraft 寧靜居伺服器的自訂合成配方，包含隱形展示框等特殊物品的製作方法
 keywords: [TWCraft, 寧靜居, 自訂合成, 隱形展示框]
 ---
 
 ## 關於自訂合成
 
-這裡列出的是伺服器特有的自訂合成表，您可以在**工作台**中使用這些配方來製作特殊物品
+這裡列出的是伺服器特有的自訂合成表，你可以在**工作台**中使用這些配方來製作特殊物品
 
 ---
 

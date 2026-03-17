@@ -2,7 +2,10 @@
 title: 封鎖紀錄
 hide_title: true
 sidebar_label: 封鎖紀錄
-sidebar_position: 7
+sidebar_position: 8
+pagination_next: null
+pagination_prev: null
+custom_edit_url: null
 hide_table_of_contents: true
 description: TWCraft 寧靜居伺服器封禁玩家紀錄，查看違反規則被封禁的玩家及其違規原因
 keywords: [TWCraft, 寧靜居, 封禁紀錄, 違規玩家]
