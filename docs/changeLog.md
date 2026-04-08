@@ -12,6 +12,10 @@ keywords: [TWCraft, 寧靜居, 更新紀錄, 版本更新]
 
 ## 2026 年
 
+### 2026-04-03
+>
+> 現在可以在[遊戲商店](/gameguide/origin/shop)的光源類裡面購買隱形光源
+
 ### 2026-03-23
 >
 > 現在可以在[遊戲商店](/gameguide/origin/shop)購買領地格  
