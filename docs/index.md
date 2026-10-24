@@ -70,7 +70,7 @@ keywords: [TWCraft, 寧靜居, 台灣 minecraft 伺服器, 領地保護, 遊戲�
   fontSize: '0.9em',
   fontWeight: 'normal'
 }}>已複製</span>  
-**遊戲版本**：Minecraft Java 1.21.11  
+**遊戲版本**：Minecraft Java 26.3  
 **Discord 社群**：[立即加入](https://discord.gg/MK33s4Ndur)
 
 <div style={{ height: "30px" }}></div>
